@@ -14,10 +14,10 @@
 
  
 # Architecture Overview :
-Clean Architecture: Separates concerns into Presentation, Domain, and Data layers.
-State Management: Uses BLoC (Business Logic Component) for efficient state management.
-Dependency Injection: Managed via GetIt, ensuring loose coupling between layers.
-Local Storage : Uses Drift.
+- Clean Architecture: Separates concerns into Presentation, Domain, and Data layers.
+- State Management: Uses BLoC (Business Logic Component) for efficient state management.
+- Dependency Injection: Managed via GetIt, ensuring loose coupling between layers.
+- Local Storage : Uses Drift.
 
 # Project Structure :
 
