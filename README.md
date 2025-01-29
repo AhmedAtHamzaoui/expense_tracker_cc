@@ -1,16 +1,25 @@
 # expense_tracker_cc
 
-A new Flutter project.
+# Steps to Run the Flutter App :
 
-## Getting Started
+- Clone the repository: git clone cd
 
-This project is a starting point for a Flutter application.
+- Install Flutter dependencies: flutter pub get
 
-A few resources to get you started if this is your first Flutter project:
+- Run the Flutter app: flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Steps to Run the Flutter App :
+- Flutter SDK Version: 3.27.2
+- Dart SDK Version: 3.6.1 the project supports Dart 3.5.3 or higher, but does not enforce a specific Flutter version.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
+# Architecture Overview :
+Clean Architecture: Separates concerns into Presentation, Domain, and Data layers.
+State Management: Uses BLoC (Business Logic Component) for efficient state management.
+Dependency Injection: Managed via GetIt, ensuring loose coupling between layers.
+Local Storage : Uses Drift.
+
+# Project Structure :
+
+<img width="633" alt="Screenshot 2025-01-29 at 17 43 10" src="https://github.com/user-attachments/assets/76184064-51b5-4f98-8b09-461773ca1c8e" />
+
