@@ -8,7 +8,7 @@
 
 - Run the Flutter app: flutter run
 
-# Steps to Run the Flutter App :
+# Flutter version :
 - Flutter SDK Version: 3.27.2
 - Dart SDK Version: 3.6.1 the project supports Dart 3.5.3 or higher, but does not enforce a specific Flutter version.
 
